@@ -1,3 +1,5 @@
+*** GRUBUS_TEAM DEV ***
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimmkan)](https://github.com/dimmkan/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/dimmkan/badges/large)](https://www.codewars.com/users/dimmkan)
