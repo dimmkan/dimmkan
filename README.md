@@ -4,4 +4,4 @@
 
 [![codewars](https://www.codewars.com/users/dimmkan/badges/large)](https://www.codewars.com/users/dimmkan)
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dimmkan&badges=3&show-avatar=false&style=--header-bg-color:%23001;--border-radius:3px"/>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dimmkan&badges=3&show-avatar=false&style=--header-bg-color:%23002;--border-radius:3px"/>
