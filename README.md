@@ -4,4 +4,4 @@
 
 [![codewars](https://www.codewars.com/users/dimmkan/badges/large)](https://www.codewars.com/users/dimmkan)
 
-[(https://unpkg.com/@codersrank/summary@0.9.13/codersrank-summary.min.js)](<codersrank-summary username="dimmkan"></codersrank-summary>)
+[![codersrank](https://unpkg.com/@codersrank/summary@0.9.13/codersrank-summary.min.js)](<codersrank-summary username="dimmkan"></codersrank-summary>)
