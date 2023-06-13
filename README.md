@@ -4,5 +4,4 @@
 
 [![codewars](https://www.codewars.com/users/dimmkan/badges/large)](https://www.codewars.com/users/dimmkan)
 
-[![codersrank](https://unpkg.com/@codersrank/summary@0.9.13/codersrank-summary.min.js)]()
-<codersrank-summary username="dimmkan"></codersrank-summary>
+[![codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dimmkan&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)]
