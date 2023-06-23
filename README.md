@@ -3,3 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimmkan)](https://github.com/dimmkan/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/dimmkan/badges/large)](https://www.codewars.com/users/dimmkan)
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dimmkan&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
